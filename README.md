@@ -1,4 +1,4 @@
-# nft-art-collection-generator-frontend
+# Nft-art-Collection-generator-frontend
 NFT Art Collection Generator build on the top of Hashlips Art Engine.
 
 ### Live Preview: https://nft-art-collection-generator.netlify.app/
